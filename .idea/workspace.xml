@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7a73bea-db21-4680-a5bd-cb4e93563fca" name="Changes" comment="4 done">
-      <change afterPath="$PROJECT_DIR$/bin/brain-calc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/brain-gcd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/brain-prime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/brain-progression.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/progres.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="c7a73bea-db21-4680-a5bd-cb4e93563fca" name="Changes" comment="4 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675344322574</updated>
       <workItem from="1675344328859" duration="505000" />
-      <workItem from="1675345195151" duration="21934000" />
+      <workItem from="1675345195151" duration="22334000" />
     </task>
     <task id="LOCAL-00001" summary="4 done">
       <created>1675355844179</created>
