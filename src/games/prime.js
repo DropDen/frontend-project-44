@@ -21,7 +21,8 @@ const prime = () => {
         }
     }
     for (let i=1 ; i<4; i++) {
-        let x = Math.round(Math.random() * 10);
+        let x = Math.round(Math.random() * 10 + 1);
+
         let result = test(x) ? 'yes' : 'no';
         console.log('Question: '+ x );
         const answer = readlineSync.question('Your answer: ');
