@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7a73bea-db21-4680-a5bd-cb4e93563fca" name="Changes" comment="donedone">
-      <change afterPath="$PROJECT_DIR$/src/games/index.js" afterDir="false" />
+    <list default="true" id="c7a73bea-db21-4680-a5bd-cb4e93563fca" name="Changes" comment="donedonedone">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-even.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-even.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-gcd.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-gcd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-prime.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-prime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-progression.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-progression.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nod.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/nod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prime.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/prime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/progres.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/progres.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/welcome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,23 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/deniskaplin/frontend-project-44",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/deniskaplin/frontend-project-44&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -70,6 +60,33 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/bin" />
     </key>
+  </component>
+  <component name="RunManager" selected="Makefile Target.brain-games">
+    <configuration name="brain-games" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="brain-games" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="install" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="install" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="publish" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="publish" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile Target.brain-games" />
+        <item itemvalue="Makefile Target.publish" />
+        <item itemvalue="Makefile Target.install" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,7 +98,7 @@
       <updated>1675344322574</updated>
       <workItem from="1675344328859" duration="505000" />
       <workItem from="1675345195151" duration="26502000" />
-      <workItem from="1675510909386" duration="2793000" />
+      <workItem from="1675510909386" duration="4091000" />
     </task>
     <task id="LOCAL-00001" summary="4 done">
       <created>1675355844179</created>
@@ -97,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675436442599</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="donedonedone">
+      <created>1675514251243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675514251243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4 done" />
     <MESSAGE value="donedone" />
-    <option name="LAST_COMMIT_MESSAGE" value="donedone" />
+    <MESSAGE value="donedonedone" />
+    <option name="LAST_COMMIT_MESSAGE" value="donedonedone" />
   </component>
 </project>

@@ -8,7 +8,7 @@ const welcome = () => {
     for (let i=1 ; i<4; i++) {
         let num = Math.round(Math.random() * 100);
         let result = num % 2 === 0 ? 'yes' : 'no';
-        console.log(num);
+        console.log('Question: '+num);
         const answer = readlineSync.question('Your answer: ');
         if (answer === String(result)) {
             console.log('Correct!');
