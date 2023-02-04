@@ -14,7 +14,7 @@ const calc = () => {
         let num2 = Math.round(Math.random() * 100);
         let quest = String(num1+znak[i]+num2);
         let result = arr[i](num1,num2);
-        console.log(quest);
+        console.log('Question: '+quest);
         const answer = readlineSync.question('Your answer: ');
         if (answer === String(result)){
             console.log('Correct!');
