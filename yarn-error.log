@@ -29,7 +29,7 @@ npm manifest:
     "type": "module",
     "main": "index.js",
     "bin": {
-      "brain-gamesf": "bin/brain-games.js"
+      "brain-gamesf": "bin/brain-calc.js"
     },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"

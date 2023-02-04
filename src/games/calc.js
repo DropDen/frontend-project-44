@@ -13,13 +13,13 @@ const calc = () => {
         let num1 = Math.round(Math.random() * 100);
         let num2 = Math.round(Math.random() * 100);
         let quest = String(num1+znak[i]+num2);
-        let res = arr[i](num1,num2);
+        let result = arr[i](num1,num2);
         console.log(quest);
         const answer = readlineSync.question('Your answer: ');
-        if (answer === String(res)){
+        if (answer === String(result)){
             console.log('Correct!');
         }else {
-            return console.log(answer + " is wrong answer ;(. Correct answer was " + res + ".\n" +
+            return console.log("'"+answer+"'" + " is wrong answer ;(. Correct answer was " + "'"+result+"'" + ".\n" +
                 "Let's try again, " + name + "!");
         }
     }

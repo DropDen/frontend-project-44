@@ -25,10 +25,10 @@ const prime = () => {
         let result = test(x) ? 'yes' : 'no';
         console.log('Question: '+ x );
         const answer = readlineSync.question('Your answer: ');
-        if (answer === result){
+        if (answer === String(result)){
             console.log('Correct!');
         }else {
-            return console.log(answer + " is wrong answer ;(. Correct answer was " + result + ".\n" +
+            return console.log("'"+answer+"'" + " is wrong answer ;(. Correct answer was " + "'"+result+"'" + ".\n" +
                 "Let's try again, " + name + "!");
         }
     }

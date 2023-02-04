@@ -21,10 +21,10 @@ const progres = () => {
         arr.splice(k,1,'..');
         console.log('Question: '+ arr.join(' ') );
         const answer = readlineSync.question('Your answer: ');
-        if (answer === result){
+        if (answer === String(result)){
             console.log('Correct!');
         }else {
-            return console.log(answer + " is wrong answer ;(. Correct answer was " + result + ".\n" +
+            return console.log("'"+answer+"'" + " is wrong answer ;(. Correct answer was " + "'"+result+"'" + ".\n" +
                 "Let's try again, " + name + "!");
         }
     }

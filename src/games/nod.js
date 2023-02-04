@@ -14,14 +14,14 @@ const nod = () => {
                 x = t;
             }
             return x;
-        };
-        const fine= dds(x,y)
+        }
+        const result= dds(x,y)
         console.log('Question: '+String(x)+' '+String(y) );
         const answer = readlineSync.question('Your answer: ');
-        if (answer === String(fine)){
+        if (answer === String(result)){
             console.log('Correct!');
         }else {
-            return console.log(answer + " is wrong answer ;(. Correct answer was " + fine + ".\n" +
+            return console.log("'"+answer+"'" + " is wrong answer ;(. Correct answer was " + "'"+result+"'" + ".\n" +
                 "Let's try again, " + name + "!");
         }
     }
