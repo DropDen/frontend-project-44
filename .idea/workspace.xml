@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7a73bea-db21-4680-a5bd-cb4e93563fca" name="Changes" comment="doooon">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="c7a73bea-db21-4680-a5bd-cb4e93563fca" name="Changes" comment="doooone">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/brain-games.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-games.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/brain-gcd.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-gcd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/brain-progression.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-progression.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/games/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/calc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/games/nod.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/nod.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/games/prime.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/prime.js" afterDir="false" />
@@ -106,7 +108,7 @@
       <workItem from="1675519990049" duration="39000" />
       <workItem from="1675520116169" duration="128000" />
       <workItem from="1675520314219" duration="611000" />
-      <workItem from="1675683740998" duration="6067000" />
+      <workItem from="1675683740998" duration="6980000" />
     </task>
     <task id="LOCAL-00001" summary="4 done">
       <created>1675355844179</created>
@@ -178,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675695042676</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="doooon">
+      <created>1675695786556</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675695786556</updated>
+    </task>
+    <task id="LOCAL-00012" summary="doooone">
+      <created>1675695928340</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675695928340</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,11 +204,11 @@
     <MESSAGE value="4 done" />
     <MESSAGE value="donedone" />
     <MESSAGE value="donedonedone" />
-    <MESSAGE value="doooone" />
     <MESSAGE value="doooone1" />
     <MESSAGE value="doooone2" />
     <MESSAGE value="doooone3" />
     <MESSAGE value="doooon" />
-    <option name="LAST_COMMIT_MESSAGE" value="doooon" />
+    <MESSAGE value="doooone" />
+    <option name="LAST_COMMIT_MESSAGE" value="doooone" />
   </component>
 </project>
