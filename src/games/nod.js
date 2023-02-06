@@ -4,19 +4,18 @@ const nod = () => {
   console.log('Welcome to the Brain Games!');
   const name = readlineSync.question('May I have your name? ');
   console.log(`Hello, ${name}!\nFind the greatest common divisor of given numbers.`);
-  function dds(x, y) {
-    while (y) {
-      const t = y;
-      y = x % y;
-      x = t;
+  function nood(n, m) {
+    if (m > 0) {
+      const k = n % m;
+      return nood(m, k);
     }
-    return x;
+    return Math.abs(n);
   }
   for (let i = 1; i < 4; i += 1) {
-    const xx = Math.round(Math.random() * 100);
-    const yy = Math.round(Math.random() * 100);
-    const result = dds(xx, yy);
-    console.log(`Question: ${String(xx)} ${String(yy)}`);
+    const x = Math.round(Math.random() * 100);
+    const y = Math.round(Math.random() * 100);
+    const result = nood(x, y);
+    console.log(`Question: ${x} ${y}`);
     const answer = readlineSync.question('Your answer: ');
     if (answer === String(result)) {
       console.log('Correct!');
