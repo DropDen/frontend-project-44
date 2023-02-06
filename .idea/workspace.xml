@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7a73bea-db21-4680-a5bd-cb4e93563fca" name="Changes" comment="doooone3">
+    <list default="true" id="c7a73bea-db21-4680-a5bd-cb4e93563fca" name="Changes" comment="doooon">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/games/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/calc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/games/nod.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/nod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/games/prime.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/prime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/games/progres.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/progres.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/games/welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/games/welcome.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +106,7 @@
       <workItem from="1675519990049" duration="39000" />
       <workItem from="1675520116169" duration="128000" />
       <workItem from="1675520314219" duration="611000" />
-      <workItem from="1675683740998" duration="5303000" />
+      <workItem from="1675683740998" duration="6067000" />
     </task>
     <task id="LOCAL-00001" summary="4 done">
       <created>1675355844179</created>
@@ -167,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675687278115</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="doooon">
+      <created>1675695042676</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675695042676</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +192,7 @@
     <MESSAGE value="doooone1" />
     <MESSAGE value="doooone2" />
     <MESSAGE value="doooone3" />
-    <option name="LAST_COMMIT_MESSAGE" value="doooone3" />
+    <MESSAGE value="doooon" />
+    <option name="LAST_COMMIT_MESSAGE" value="doooon" />
   </component>
 </project>
