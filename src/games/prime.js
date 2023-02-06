@@ -4,7 +4,7 @@ const prime = () => {
   console.log('Welcome to the Brain Games!');
   const name = readlineSync.question('May I have your name? ');
   console.log(
-    `Hello, ${name}!\nAnswer "yes" if given number is prime. Otherwise answer "no".`
+    `Hello, ${name}!\nAnswer "yes" if given number is prime. Otherwise answer "no".`,
   );
   function test(n) {
     if (n === 1) return false;
@@ -24,7 +24,7 @@ const prime = () => {
       console.log('Correct!');
     } else {
       return console.log(
-        `'${answer}' is wrong answer ;(. Correct answer was '${result}'\nLet's try again, ${name}!`
+        `'${answer}' is wrong answer ;(. Correct answer was '${result}'\nLet's try again, ${name}!`,
       );
     }
   }
